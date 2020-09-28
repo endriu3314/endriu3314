@@ -2,14 +2,14 @@
 
 ![Spotify Playing](https://spotify-now-playing-gamma-nine.vercel.app/api/spotify-playing)
 
-### Conect with me 👯
+### 👯 Connect with me 👯
 
 [<img align="left" alt="Andrei Croitoru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="endriu.xx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/><br/>
 
-### Languages & Technologies
+### ✍️ Languages & Technologies ✍️
 
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -36,7 +36,13 @@
 
 <br/><br/>
 
-### ⚡ GitHub Stats</summary>
+### ⌨️ Currently working on ⌨️
+- [Viva Trucking](https://vivatrucking.com)
+
+### 💼 Current employment 💼
+- *Lead Developer* at [**Viva Group US**](https://vivagroup.us)
+
+### ⚡ GitHub Stats ⚡
 ![My github stats](https://github-readme-stats.vercel.app/api?username=endriu3314&count_private=true&show_icons=true&theme=graywhite)
 
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=endriu3314&layout=compact&theme=graywhite)
