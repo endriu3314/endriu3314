@@ -34,7 +34,10 @@
 <img align="left" alt="Jupiter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br/>
+<br/><br/>
+
+#### 🌐 Country & Timezone 🌐
+🇷🇴 Arad, *Romania* - **[GMT +3]**
 
 ### ⌨️ Currently working on ⌨️
 - [Viva Trucking](https://vivatrucking.com)
