@@ -7,7 +7,7 @@
 [<img align="left" alt="Andrei Croitoru | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="endriu.xx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/><br/>
+<br/>
 
 ### ✍️ Languages & Technologies ✍️
 
@@ -34,7 +34,7 @@
 <img align="left" alt="Jupiter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<br/><br/>
+<br/>
 
 ### ⌨️ Currently working on ⌨️
 - [Viva Trucking](https://vivatrucking.com)
