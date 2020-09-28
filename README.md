@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-#### 🌐 Country & Timezone 🌐
+### 🌐 Country & Timezone 🌐
 🇷🇴 Arad, *Romania* - **[GMT +3]**
 
 ### ⌨️ Currently working on ⌨️
