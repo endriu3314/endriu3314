@@ -50,5 +50,7 @@
 
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=endriu3314&layout=compact&theme=graywhite)
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=endriu3314&theme=graywhite)
+
 [instagram]: https://www.instagram.com/endriu.xx/
 [linkedin]: https://www.linkedin.com/in/andrei-croitoru-rusan-2b81ab15a/
