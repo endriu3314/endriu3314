@@ -48,7 +48,7 @@
 ### ⚡ GitHub Stats ⚡
 ![My github stats](https://github-readme-stats.vercel.app/api?username=endriu3314&count_private=true&show_icons=true&theme=graywhite)
 
-![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=endriu3314&layout=compact&theme=graywhite)
+![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=endriu3314&layout=compact&theme=graywhite&hide=html,css)
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=endriu3314&theme=graywhite)
 
