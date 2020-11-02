@@ -37,7 +37,7 @@
 <br/><br/>
 
 ### 🌐 Country & Timezone 🌐
-🇷🇴 Arad, *Romania* - **[GMT +3]**
+🇷🇴 Arad, *Romania* - **[UTC +2]**
 
 ### ⌨️ Currently working on ⌨️
 - [Viva Trucking](https://vivatrucking.com)
