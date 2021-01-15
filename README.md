@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrei 👋
 
-![Spotify Playing](https://spotify-now-playing-gamma-nine.vercel.app/api/spotify-playing)
+<!--  ![Spotify Playing](https://spotify-now-playing-gamma-nine.vercel.app/api/spotify-playing) -->
 
 ### 👯 Connect with me 👯
 
