@@ -46,6 +46,8 @@
 - *Lead Developer* at [**Viva Group US**](https://vivagroup.us)
 
 ### ⚡ GitHub Stats ⚡
+[![trophy](https://github-profile-trophy.vercel.app/?username=endriu3314&margin-w=15&title=Commit,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=endriu3314&count_private=true&show_icons=true&theme=graywhite)
 
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs?username=endriu3314&layout=compact&theme=graywhite&hide=html,css)
